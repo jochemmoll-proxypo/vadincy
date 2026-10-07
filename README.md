@@ -29,8 +29,9 @@ Het custom domain `vadincy.nl` wordt in Cloudflare beheerd. Een geslaagde Git-pu
 ## Nog bevestigen voor publicatie
 
 - Contactadres: `jochem.moll@gmail.com` (bevestigd door Jochem).
-- De dienstbeschrijvingen en aanpak zijn conceptteksten op basis van de aangeleverde positionering.
-- Voeg eventueel het juiste LinkedIn-profiel, een portret, geverifieerde cases en bedrijfsgegevens toe.
+- De dienstbeschrijvingen en aanpak zijn door Jochem akkoord bevonden voor deze versie.
+- Cases zijn gebaseerd op de door Jochem aangeleverde werkervaring; er zijn geen extra prestatieclaims toegevoegd.
+- LinkedIn-profiel is toegevoegd. Voeg eventueel een portret en bedrijfsgegevens toe.
 - Google Fonts is optioneel; bij geen netwerktoegang gebruikt de website Arial.
 
 Er zijn geen klantnamen, testimonials of behaalde resultaten verzonnen.
