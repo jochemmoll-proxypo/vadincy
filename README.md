@@ -18,6 +18,8 @@ npm run preview -- --port 4173
 
 De productie-output staat in `dist/`. Er is geen backend of formulierverwerking; de contactknop opent een e-mailprogramma.
 
+De productiebuild voegt CSS en JavaScript direct in `index.html` in via `vite.config.js`. Daardoor is de pagina niet afhankelijk van aparte `/assets/`-requests, die tijdens de overgang naar Cloudflare nog bij de oude hosting kunnen uitkomen. De ontwikkelserver gebruikt de losse bronbestanden.
+
 ## Cloudflare Workers
 
 Deze repository bevat `wrangler.jsonc` voor een Worker met statische assets. De workernaam is `vadincy` en de bestanden worden vanuit `dist/` gepubliceerd. Wrangler voert zelf `npm run build` uit vóór deployment.
