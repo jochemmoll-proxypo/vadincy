@@ -37,3 +37,7 @@ Het custom domain `vadincy.nl` wordt in Cloudflare beheerd. Een geslaagde Git-pu
 - Google Fonts is optioneel; bij geen netwerktoegang gebruikt de website Arial.
 
 Er zijn geen klantnamen, testimonials of behaalde resultaten verzonnen.
+
+## Portfolio-logo's
+
+RDC is lokaal opgenomen. ChargePoint en LeasePlan gebruiken de door Jochem aangeleverde afbeeldingslinks van images.seeklogo.com en image.pngaaa.com. De bedrijfsnaam blijft zichtbaar wanneer de externe bron faalt. Logo's verschijnen na een geslaagde laadactie. Deze externe bronnen ontvangen een afbeeldingsrequest van de bezoeker; referrerinformatie wordt niet meegestuurd.
