@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Laag_2" data-name="Laag 2" viewBox="0 0 97.61 97.61">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Naamloos_verloop_2);
+      }
+
+      .cls-2 {
+        fill: url(#Naamloos_verloop_3);
+      }
+
+      .cls-3 {
+        fill: url(#Naamloos_verloop_5);
+      }
+
+      .cls-4 {
+        fill: url(#Naamloos_verloop_6);
+      }
+
+      .cls-5 {
+        fill: url(#Naamloos_verloop_4);
+      }
+
+      .cls-6 {
+        fill: url(#Naamloos_verloop_7);
+      }
+
+      .cls-7 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="Naamloos_verloop_6" data-name="Naamloos verloop 6" x1="450.12" y1="-2643.13" x2="447.9" y2="-2637.9" gradientTransform="translate(-3038.79 -17949.02) scale(6.81 -6.81)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f49811"></stop>
+      <stop offset=".62" stop-color="#e6381e"></stop>
+    </linearGradient>
+    <linearGradient id="Naamloos_verloop_7" data-name="Naamloos verloop 7" x1="461.07" y1="-612.71" x2="459.91" y2="-607.87" gradientTransform="translate(-3062.82 4206.07) scale(6.81)" gradientUnits="userSpaceOnUse">
+      <stop offset=".19" stop-color="#e8461b"></stop>
+      <stop offset=".26" stop-color="#e9531b"></stop>
+      <stop offset=".49" stop-color="#ef7814"></stop>
+      <stop offset=".67" stop-color="#f28e13"></stop>
+      <stop offset=".79" stop-color="#f49712"></stop>
+    </linearGradient>
+    <linearGradient id="Naamloos_verloop_2" data-name="Naamloos verloop 2" x1="458.86" y1="-612.63" x2="458.86" y2="-607.85" gradientTransform="translate(-3062.82 4206.07) scale(6.81)" gradientUnits="userSpaceOnUse">
+      <stop offset=".3" stop-color="#e8461b"></stop>
+      <stop offset=".69" stop-color="#f49712"></stop>
+    </linearGradient>
+    <linearGradient id="Naamloos_verloop_3" data-name="Naamloos verloop 3" x1="457.21" y1="-606.76" x2="457.24" y2="-612.77" gradientTransform="translate(-3062.82 4206.07) scale(6.81)" gradientUnits="userSpaceOnUse">
+      <stop offset=".17" stop-color="#f49712"></stop>
+      <stop offset=".29" stop-color="#f28a12"></stop>
+      <stop offset=".6" stop-color="#ed6917"></stop>
+      <stop offset=".71" stop-color="#e8461b"></stop>
+    </linearGradient>
+    <linearGradient id="Naamloos_verloop_4" data-name="Naamloos verloop 4" x1="457.39" y1="-606.03" x2="454.77" y2="-612.58" gradientTransform="translate(-3062.82 4206.07) scale(6.81)" gradientUnits="userSpaceOnUse">
+      <stop offset=".3" stop-color="#f49712"></stop>
+      <stop offset=".5" stop-color="#eb6015"></stop>
+      <stop offset=".73" stop-color="#e8461b"></stop>
+    </linearGradient>
+    <linearGradient id="Naamloos_verloop_5" data-name="Naamloos verloop 5" x1="453.5" y1="-612.03" x2="455.6" y2="-608.62" gradientTransform="translate(-3062.82 4206.07) scale(6.81)" gradientUnits="userSpaceOnUse">
+      <stop offset=".27" stop-color="#e8461b"></stop>
+      <stop offset=".4" stop-color="#e9531b"></stop>
+      <stop offset=".61" stop-color="#ee7217"></stop>
+      <stop offset=".83" stop-color="#f49712"></stop>
+    </linearGradient>
+  </defs>
+  <path class="cls-4" d="m28.3,43.1l-3.04-6.35-3.04-6.35c-1.59-3.84-5.82-5.42-9.53-3.84-3.7,1.59-5.29,5.95-3.57,9.66l9.66,20.51.66,1.46c1.72,3.7,6.09,5.29,9.79,3.57.93-.4,1.85-1.06,2.51-1.85l2.65-3.7h0l-6.09-13.1Z"></path>
+  <g>
+    <path class="cls-6" d="m87.18,27.35c-2.12-1.46-4.9-.93-6.35,1.19l-5.82,8.86-5.82,8.86-6.48,9.92s1.46,2.51,1.59,2.51c.26.4.53.66.93.93,1.98,1.19,4.63.66,5.95-1.32l2.78-3.97,14.42-20.51c1.46-2.25.93-5.03-1.19-6.48Z"></path>
+    <path class="cls-1" d="m69.18,46.14l-1.72-3.04-1.46-2.65c-1.72-3.04-3.44-3.84-5.69-3.7-1.85,0-3.57.93-4.76,2.51l-1.46,1.98,6.62,11.38,1.98,3.31s1.46,2.51,1.59,2.51c.26.4.53.66.93.93,1.98,1.19,4.63.66,5.95-1.32l2.78-3.97-4.76-7.94Z"></path>
+    <path class="cls-2" d="m65.87,40.58c-1.72-3.04-3.44-3.84-5.69-3.7-1.85,0-3.57.93-4.76,2.51l-17.2,24.61.13.66v.66c.79,7.41,8.07,7.81,10.85,3.84l11.51-16.41,6.75-9.53-1.59-2.65Z"></path>
+    <path class="cls-5" d="m49.86,47.33l-1.19-11.64v-.26c-.4-4.9-3.84-7.01-6.75-7.01-1.98,0-3.84.93-5.03,2.65l-1.85,2.51,1.98,18.79h0l1.32,12.97c.79,7.41,8.07,7.81,10.85,3.84l2.38-3.44-1.72-18.39Z"></path>
+    <path class="cls-3" d="m48.54,35.42c-.4-4.9-3.84-7.01-6.75-7.01-1.98,0-3.84.93-5.03,2.65l-1.85,2.51-2.38,3.44-4.23,6.09-9.66,13.76.66,1.46c1.72,3.7,6.09,5.29,9.79,3.57.93-.4,1.85-1.06,2.51-1.98l2.65-3.7h0l2.65-3.7,11.64-16.67v-.4Z"></path>
+    <path class="cls-7" d="m48.28,50.11c0,1.46,1.19,2.51,2.51,2.65h.13c.79,0,1.46-.26,2.12-.66l-.66-.93c-.4.4-.93.53-1.32.53-.66,0-1.32-.4-1.46-1.19h3.84v-.4c0-1.46-1.06-2.51-2.51-2.65-1.59,0-2.65,1.19-2.65,2.65h0m1.19-.53c.13-.53.66-.93,1.32-.93.53,0,1.06.4,1.32.93h-2.65Zm-2.78.13c.66.13,1.06.79,1.06,1.32,0,.93-.79,1.59-1.85,1.59-.66,0-1.46-.26-1.98-.66l.66-.93c.4.4.79.53,1.32.53.66,0,.66-.4.66-.4,0-.26-.13-.4-.4-.4-.26-.13-.93-.26-1.19-.4-.53-.13-1.06-.66-1.06-1.32,0-.93.66-1.59,1.59-1.59h.26c.66,0,1.32.26,1.98.66l-.53.93c-.4-.26-.79-.4-1.32-.4s-.53.26-.66.4c0,.26.13.4.4.4s.93.26,1.06.26h0Zm-14.02.4c0-1.46,1.06-2.51,2.51-2.65,1.32,0,2.51,1.06,2.65,2.38v.66h-3.97c.13.66.79,1.19,1.46,1.19.53,0,1.06-.13,1.32-.53l.66.93c-.53.53-1.32.66-2.12.66-1.32,0-2.51-1.19-2.51-2.65h0m3.84-.53c-.13-.53-.66-.93-1.32-.93s-1.19.4-1.32.93h2.65Zm-7.14-4.37h-1.32v7.41h4.37v-1.19h-3.04v-6.22Zm10.98,2.38h.53c.53,0,1.06.13,1.46.53v-.4h1.19v5.03h-1.19v-.4c-.4.26-.93.53-1.46.53-1.32,0-2.38-.93-2.65-2.12l2.12-3.18m1.85,2.51c0-.79-.66-1.46-1.46-1.46s-1.46.66-1.46,1.46.66,1.46,1.46,1.46,1.46-.66,1.46-1.46m14.42-4.9h-2.65v7.41h1.32v-2.12h1.32c1.46,0,2.65-1.06,2.78-2.51,0-1.46-1.06-2.65-2.51-2.78h-.26Zm-.13,3.97h-1.32v-2.78h1.32c.79,0,1.46.53,1.46,1.32.13.79-.53,1.46-1.46,1.46h0Zm14.82-1.72c.66.13,1.32.53,1.59,1.19.13.4.26.93.13,1.32v2.51h-1.19v-2.65c.13-.66-.26-1.19-.93-1.32s-1.19.26-1.32.93v2.91h-1.19v-5.03h1.19v.4c.53-.13,1.06-.26,1.72-.26h0Zm-7.01,0h.53c.53,0,1.06.13,1.46.53v-.4h1.19v5.03h-1.19v-.4c-.4.26-.93.53-1.46.53-1.32,0-2.38-.93-2.65-2.12l2.12-3.18m1.98,2.65c0-.79-.66-1.46-1.46-1.46s-1.46.66-1.46,1.46.66,1.46,1.46,1.46,1.46-.66,1.46-1.46m-5.16.66v-5.16h-1.19v5.29c0,.93.66,1.72,1.72,1.72h.26v-1.19c-.4.13-.66-.26-.79-.66h0Z"></path>
+  </g>
+</svg>
