@@ -40,4 +40,4 @@ Er zijn geen klantnamen, testimonials of behaalde resultaten verzonnen.
 
 ## Portfolio-logo's
 
-RDC is lokaal opgenomen. Externe logo's moeten eerst worden gedownload en lokaal worden opgenomen; gebruik geen hotlinks. ChargePoint en LeasePlan tonen voorlopig hun bedrijfsnaam totdat lokale bestanden beschikbaar zijn.
+RDC en ChargePoint zijn lokaal opgenomen. Externe logo's moeten eerst worden gedownload en lokaal worden opgenomen; gebruik geen hotlinks. LeasePlan toont voorlopig de bedrijfsnaam totdat lokale bestanden beschikbaar zijn.
