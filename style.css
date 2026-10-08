@@ -16,3 +16,14 @@ h1{font-weight:600}h1>span{color:#b5e2ff;text-shadow:none}
 @media(max-width:600px){.hero-art{min-height:360px}.hero-art svg{height:100%;top:0}.hero{gap:38px}.button{max-width:100%}}
 
 .case-brand-logo{display:flex;flex-direction:column;align-items:flex-start;gap:12px}.case-brand-logo img{width:145px;max-width:100%;height:auto;display:block}.case-brand-logo>span{font-size:14px;font-weight:500;letter-spacing:0;color:var(--muted)}
+
+/* Layered nebula: fixed viewport, two scroll depths, readable foreground. */
+body{isolation:isolate;background:#0c1118}
+.nebula{position:fixed;inset:0;z-index:-1;overflow:hidden;pointer-events:none;background:#0c1118}
+.nebula-cloud{position:absolute;inset:-35% -20% -110%;will-change:transform;filter:blur(45px)}
+.nebula-cloud-far{transform:translate3d(0,var(--nebula-far,0px),0);background:radial-gradient(ellipse 32% 17% at 80% 25%,#315d8b66,transparent 80%),radial-gradient(ellipse 38% 24% at 14% 44%,#523f7b55,transparent 75%),radial-gradient(ellipse 45% 18% at 58% 66%,#24687944,transparent 80%)}
+.nebula-cloud-near{transform:translate3d(0,var(--nebula-near,0px),0);background:radial-gradient(ellipse 26% 12% at 63% 30%,#73bcdb2b,transparent 72%),radial-gradient(ellipse 32% 19% at 30% 48%,#7763b62e,transparent 75%),radial-gradient(ellipse 29% 13% at 84% 67%,#447dbf33,transparent 78%)}
+.nebula-stars{position:absolute;inset:0;opacity:.35;background-image:radial-gradient(circle,#c4e4ff 1px,transparent 1.5px),radial-gradient(circle,#9ab7df .7px,transparent 1.2px);background-size:211px 193px,137px 163px;background-position:37px 23px,83px 97px;mask-image:linear-gradient(transparent,#000 15%,#000 85%,transparent)}
+.header{background:#0c111844}.card,.case{background:linear-gradient(145deg,#142131ed,#101923f2)}
+@media(max-width:600px){.nebula-cloud{filter:blur(30px)}.nebula-stars{opacity:.22}}
+@media(prefers-reduced-motion:reduce){.nebula-cloud{transform:none;will-change:auto}}
