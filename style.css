@@ -14,3 +14,5 @@ h1{font-weight:600}h1>span{color:#b5e2ff;text-shadow:none}
 .about-art{background:radial-gradient(ellipse at 90% 10%,#30557766,transparent 60%),repeating-linear-gradient(135deg,transparent,transparent 49px,#81cfff08 50px),#111e2c;border:1px solid #34526a;border-radius:14px}.monogram{color:#b5e2ff;font-weight:500;font-style:normal;text-shadow:none;letter-spacing:-12px}.monogram span{color:#81cfff;text-shadow:none}
 .contact{background:radial-gradient(ellipse at 50% 100%,#214a6c55,transparent 65%),#101c2a;border-top:1px solid #34526a}.contact h2 span{color:#b5e2ff}.contact .button{color:#0c1118;background:#b5e2ff}.contact .button:hover{background:#d4efff}.contact .eyebrow{color:#9cd8ff}footer{border-top:1px solid #293848}
 @media(max-width:600px){.hero-art{min-height:360px}.hero-art svg{height:100%;top:0}.hero{gap:38px}.button{max-width:100%}}
+
+.case-brand-logo{display:flex;flex-direction:column;align-items:flex-start;gap:12px}.case-brand-logo img{width:145px;max-width:100%;height:auto;display:block}.case-brand-logo>span{font-size:14px;font-weight:500;letter-spacing:0;color:var(--muted)}
