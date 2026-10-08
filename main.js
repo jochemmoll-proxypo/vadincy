@@ -20,11 +20,3 @@ function scheduleNebula() {
 window.addEventListener('scroll', scheduleNebula, { passive: true });
 reducedMotion.addEventListener('change', scheduleNebula);
 renderNebula();
-
-// Show external logos only after a successful load; retain company names.
-for (const image of document.querySelectorAll('[data-portfolio-logo]')) {
-  const reveal = () => { if (image.naturalWidth > 0) image.parentElement.hidden = false; };
-  image.addEventListener('load', reveal);
-  image.addEventListener('error', () => { image.parentElement.hidden = true; });
-  if (image.complete) reveal();
-}
